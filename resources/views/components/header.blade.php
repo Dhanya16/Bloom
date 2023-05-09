@@ -25,6 +25,7 @@
             .header{
                 background-color:rgb(82, 12, 102);
                 height: 75px;
+                z-index:100;
             }
             .header-title{
                 color:rgb(254, 254, 254);
