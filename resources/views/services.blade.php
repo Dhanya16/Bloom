@@ -173,7 +173,7 @@
 
     </style>
     <script>
-        const images = ['images/Tulip.png', 'images/Tiger lily.png', 'images/Rose.png','images/Orchid.png','images/Himalayan Blue poppy.png','images/Dahlia pinnata.png','images/Cherry blossom.png','images/Calla lilies.png','images/Blue hydrangea.png','images/Bleeding heart.png','images/Birds of paradise.png']; // array of background images
+        const images = ['images/Tulip.png', 'images/Tiger lily.png', 'images/Rose.png','images/Orchid.png','images/Himalayan Blue poppy.png','images/Dahlia pinnata.png','images/Cherry blossom.png','images/Calla lilies.png','images/Blue hydrangea.png','images/Bleeding heart.png','images/Birds of paradise.png','images/Abutilon.png','images/Acacia.png','images/Aconite.png','images/African daisy.png','images/Agapanthus.png','images/Allium.png','images/Alstroemeria.png','images/Alyssum.png','images/Amaranthus.png','images/Amaryllis.png','images/Anemone.png','images/Azalea.png','images/Bachelors button.png','images/Balloon.png','images/Bee balm.png','images/Begonia.png','images/Bellflower.png','images/Bergenia.png','images/Plumbago.png','images/Black eyed susan.png','images/Broom.png','images/Buttercup.png','images/Celosia.png']; // array of background images
         let currentImageIndex = 0; // current index of the background image
 
         function changeBackgroundImage() {
