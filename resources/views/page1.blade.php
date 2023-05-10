@@ -12,6 +12,9 @@
             <img src="images/Acacia.png" alt="Acacia"/>
         </a>
         <a href=".">
+            <img src="images/Acacia dealbata.png" alt="Acacia dealbata"/>
+        </a>
+        <a href=".">
             <img src="images/Aconite.png" alt="Aconite"/>
         </a>
         <a href=".">
@@ -31,9 +34,6 @@
         </a>
         <a href=".">
             <img src="images/Amaranthus.png" alt="Amaranthus"/>
-        </a>
-        <a href=".">
-            <img src="images/Amaryllis.png" alt="Amaryllis"/>
         </a>
         <a href=".">
             <img src="images/Anemone.png" alt="Anemone"/>
@@ -87,7 +87,7 @@
             <img src="images/Cherry blossom.png" alt="Cherry blossom"/>
         </a>
         <a href=".">
-            <img src="images/Dahlia pinnata.png" alt="Dahlia pinnata"/>
+            <img src="images/Common daisy.png" alt="Common daisy"/>
         </a>
     </div>
     <style>
