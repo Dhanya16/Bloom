@@ -57,6 +57,10 @@ Route::get('/services', function () {
     return view('services');
 });
 
+Route::get('/info', function () {
+    return view('info');
+});
+
 
 Route::post("services",[servicesController::class,'getData']);
 

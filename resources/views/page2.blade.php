@@ -6,6 +6,9 @@
     <x-header/>
     <div class="grid-container">
         <a href=".">
+            <img src="images/Common daisy.png" alt="Common daisy"/>
+        </a>
+        <a href=".">
             <img src="images/Daisy.png" alt="Daisy"/>
         </a>
         <a href=".">
@@ -31,9 +34,6 @@
         </a>
         <a href=".">
             <img src="images/Japanese camellia.png" alt="Japanese camellia"/>
-        </a>
-        <a href=".">
-            <img src="images/Anemone.png" alt="Anemone"/>
         </a>
         <a href=".">
             <img src="images/Azalea.png" alt="Azalea"/>

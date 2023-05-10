@@ -15,6 +15,9 @@
             <img src="images/Plumbago.png" alt="Plumbago"/>
         </a>
         <a href=".">
+            <img src="images/Purple lilac.png" alt="Purple lilac"/>
+        </a>
+        <a href=".">
             <img src="images/Skeleton flower.png" alt="Skeleton flower"/>
         </a>
         <a href=".">
@@ -22,9 +25,6 @@
         </a>
         <a href=".">
             <img src="images/Tulip.png" alt="Tulip"/>
-        </a>
-        <a href=".">
-            <img src="images/Alstroemeria.png" alt="Alstroemeria"/>
         </a>
         <a href=".">
             <img src="images/Alyssum.png" alt="Alyssum"/>
