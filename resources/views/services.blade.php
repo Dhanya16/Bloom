@@ -37,7 +37,6 @@
                 <div class="form3">
                     <input type="file" id="image" name="image" placeholder="Image" required><br>
                 </div>
-    
 		        <button class="button" id="center" type="submit" value="Submit">Submit</button>
 	        </form>
         </div>
@@ -49,6 +48,9 @@
     <script async src="https://cse.google.com/cse.js?cx=609fa1ced3172409a"></script>
     <div class="gcse-search"></div>
     <style>
+        x-header{
+            z-index:999;
+        }
         .prompt{
             font-size: 30px;
             font-family:cursive;
@@ -173,7 +175,7 @@
 
     </style>
     <script>
-        const images = ['images/Tulip.png', 'images/Tiger lily.png', 'images/Rose.png','images/Orchid.png','images/Himalayan Blue poppy.png','images/Dahlia pinnata.png','images/Cherry blossom.png','images/Calla lilies.png','images/Blue hydrangea.png','images/Bleeding heart.png','images/Birds of paradise.png','images/Abutilon.png','images/Acacia.png','images/Aconite.png','images/African daisy.png','images/Agapanthus.png','images/Allium.png','images/Alstroemeria.png','images/Alyssum.png','images/Amaranthus.png','images/Amaryllis.png','images/Anemone.png','images/Azalea.png','images/Bachelors button.png','images/Balloon.png','images/Bee balm.png','images/Begonia.png','images/Bellflower.png','images/Bergenia.png','images/Plumbago.png','images/Black eyed susan.png','images/Broom.png','images/Buttercup.png','images/Celosia.png']; // array of background images
+        const images = ['images/Iris.png', 'images/Lily.png','images/Peony.png','images/Daisy.png','images/Marigold.png','images/Gladiolas.png','images/Magnolia.png', 'images/Tulip.png', 'images/Tiger lily.png', 'images/Rose.png','images/Orchid.png','images/Himalayan Blue poppy.png','images/Dahlia pinnata.png','images/Cherry blossom.png','images/Calla lilies.png','images/Blue hydrangea.png','images/Bleeding heart.png','images/Birds of paradise.png','images/Abutilon.png','images/Acacia.png','images/Aconite.png','images/African daisy.png','images/Agapanthus.png','images/Allium.png','images/Alstroemeria.png','images/Alyssum.png','images/Amaranthus.png','images/Anemone.png','images/Azalea.png','images/Bachelors button.png','images/Balloon.png','images/Bee balm.png','images/Begonia.png','images/Bellflower.png','images/Bergenia.png','images/Plumbago.png','images/Black eyed susan.png','images/Broom.png','images/Buttercup.png','images/Celosia.png','images/Dahlia.png','images/Japanese camellia.png','images/Lotus.png','images/Persian buttercup.png','images/Common daisy.png','images/French hydrangea.png','images/Dense peonies.png','images/Acacia dealbata.png','images/Morflora Tulips.png','images/Skeleton flower.png']; // array of background images
         let currentImageIndex = 0; // current index of the background image
 
         function changeBackgroundImage() {
