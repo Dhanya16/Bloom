@@ -97,79 +97,79 @@
         </div>
         <div id="info16">
             <div class="content">
-                <h1>Bee Balm</h1>
+                <h1>Bearded iris</h1>
                 <a href="page1"><button class="button" id="goback">Go back</button></a>
             </div>
         </div>
         <div id="info17">
             <div class="content">
-                <h1>Begonia</h1>
+                <h1>Bee Balm</h1>
                 <a href="page1"><button class="button" id="goback">Go back</button></a>
             </div>
         </div>
         <div id="info18">
             <div class="content">
-                <h1>Bellflower</h1>
+                <h1>Begonia</h1>
                 <a href="page1"><button class="button" id="goback">Go back</button></a>
             </div>
         </div>
         <div id="info19">
             <div class="content">
-                <h1>Bergenia</h1>
+                <h1>Bellflower</h1>
                 <a href="page1"><button class="button" id="goback">Go back</button></a>
             </div>
         </div>
         <div id="info20">
             <div class="content">
-                <h1>Birds of Paradise</h1>
+                <h1>Bergenia</h1>
                 <a href="page1"><button class="button" id="goback">Go back</button></a>
             </div>
         </div>
         <div id="info21">
             <div class="content">
-                <h1>Black eyed Susan</h1>
+                <h1>Birds of Paradise</h1>
                 <a href="page1"><button class="button" id="goback">Go back</button></a>
             </div>
         </div>
         <div id="info22">
             <div class="content">
-                <h1>Bleeding Heart</h1>
+                <h1>Black eyed Susan</h1>
                 <a href="page1"><button class="button" id="goback">Go back</button></a>
             </div>
         </div>
         <div id="info23">
             <div class="content">
-                <h1>Blue Hydrangea</h1>
+                <h1>Bleeding Heart</h1>
                 <a href="page1"><button class="button" id="goback">Go back</button></a>
             </div>
         </div>
         <div id="info24">
             <div class="content">
-                <h1>Broom</h1>
+                <h1>Blue Hydrangea</h1>
                 <a href="page1"><button class="button" id="goback">Go back</button></a>
             </div>
         </div>
         <div id="info25">
             <div class="content">
-                <h1>Buttercup</h1>
+                <h1>Broom</h1>
                 <a href="page1"><button class="button" id="goback">Go back</button></a>
             </div>
         </div>
         <div id="info26">
             <div class="content">
-                <h1>Calla Lillies</h1>
+                <h1>Buttercup</h1>
                 <a href="page1"><button class="button" id="goback">Go back</button></a>
             </div>
         </div>
         <div id="info27">
             <div class="content">
-                <h1>Celosia</h1>
+                <h1>Calla Lillies</h1>
                 <a href="page1"><button class="button" id="goback">Go back</button></a>
             </div>
         </div>
         <div id="info28">
             <div class="content">
-                <h1>Cherry Blossom</h1>
+                <h1>Carnation</h1>
                 <a href="page1"><button class="button" id="goback">Go back</button></a>
             </div>
         </div>
@@ -190,19 +190,19 @@
         <img src="images/Azalea.png" alt="Azalea"  onclick ="showInfo('info13',this.src)"/>
         <img src="images/Bachelors button.png" alt="Bachelors button"  onclick ="showInfo('info14',this.src)"/>
         <img src="images/Balloon.png" alt="Balloon"  onclick ="showInfo('info15',this.src)"/>
-        <img src="images/Bee balm.png" alt="Bee balm"  onclick ="showInfo('info16',this.src)"/>
-        <img src="images/Begonia.png" alt="Begonia"  onclick ="showInfo('info17',this.src)"/>
-        <img src="images/Bellflower.png" alt="Bellflower"  onclick ="showInfo('info18',this.src)"/>
-        <img src="images/Bergenia.png" alt="Bergenia"  onclick ="showInfo('info19',this.src)"/>
-        <img src="images/Birds of paradise.png" alt="Birds of paradise"  onclick ="showInfo('info20',this.src)"/>
-        <img src="images/Black eyed susan.png" alt="Black eyed susan"  onclick ="showInfo('info21',this.src)"/>
-        <img src="images/Bleeding heart.png" alt="Bleeding heart"  onclick ="showInfo('info22',this.src)"/>
-        <img src="images/Blue hydrangea.png" alt="Blue hydrangea"  onclick ="showInfo('info23',this.src)"/>
-        <img src="images/Broom.png" alt="Broom"  onclick ="showInfo('info24',this.src)"/>
-        <img src="images/Buttercup.png" alt="Buttercup"  onclick ="showInfo('info25',this.src)"/>
-        <img src="images/Calla lilies.png" alt="Calla lilies"  onclick ="showInfo('info26',this.src)"/>
-        <img src="images/Celosia.png" alt="Celosia"  onclick ="showInfo('info27',this.src)"/>
-        <img src="images/Cherry blossom.png" alt="Cherry blossom"  onclick ="showInfo('info28',this.src)"/>
+        <img src="images/Bearded iris.png" alt="Bearded iris"  onclick ="showInfo('info16',this.src)"/>
+        <img src="images/Bee balm.png" alt="Bee balm"  onclick ="showInfo('info17',this.src)"/>
+        <img src="images/Begonia.png" alt="Begonia"  onclick ="showInfo('info18',this.src)"/>
+        <img src="images/Bellflower.png" alt="Bellflower"  onclick ="showInfo('info19',this.src)"/>
+        <img src="images/Bergenia.png" alt="Bergenia"  onclick ="showInfo('info20',this.src)"/>
+        <img src="images/Birds of paradise.png" alt="Birds of paradise"  onclick ="showInfo('info21',this.src)"/>
+        <img src="images/Black eyed susan.png" alt="Black eyed susan"  onclick ="showInfo('info22',this.src)"/>
+        <img src="images/Bleeding heart.png" alt="Bleeding heart"  onclick ="showInfo('info23',this.src)"/>
+        <img src="images/Blue hydrangea.png" alt="Blue hydrangea"  onclick ="showInfo('info24',this.src)"/>
+        <img src="images/Broom.png" alt="Broom"  onclick ="showInfo('info25',this.src)"/>
+        <img src="images/Buttercup.png" alt="Buttercup"  onclick ="showInfo('info26',this.src)"/>
+        <img src="images/Calla lilies.png" alt="Calla lilies"  onclick ="showInfo('info27',this.src)"/>
+        <img src="images/Carnation.png" alt="Carnation"  onclick ="showInfo('info28',this.src)"/>
     </div>
     <style>
         .grid-container{
@@ -222,7 +222,7 @@
         img:hover{
             transform: scale(1.1);
             border-radius:5px;
-            /*opacity:0.5;*/
+            opacity:0.5;
             cursor: pointer;
         }
         #info {

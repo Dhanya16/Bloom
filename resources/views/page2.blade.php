@@ -6,13 +6,16 @@
     <x-header/>
     <div class="grid-container">
         <a href=".">
+            <img src="images/Celosia.png" alt="Celosia"/>
+        </a>
+        <a href=".">
+            <img src="images/Cherry blossom.png" alt="Cherry blossom"  onclick ="showInfo('info28',this.src)"/>
+        </a>
+        <a href=".">
+            <img src="images/Colchicum lusitanum.png" alt="Colchium lusitanum"/>
+        </a>
+        <a href=".">
             <img src="images/Common daisy.png" alt="Common daisy"/>
-        </a>
-        <a href=".">
-            <img src="images/Daisy.png" alt="Daisy"/>
-        </a>
-        <a href=".">
-            <img src="images/Dense peonies.png" alt="Dense peonies"/>
         </a>
         <a href=".">
             <img src="images/Dahlia.png" alt="Dahlia"/>
@@ -21,7 +24,19 @@
             <img src="images/Dahlia pinnata.png" alt="Dahlia pinnata"/>
         </a>
         <a href=".">
+            <img src="images/Daisy.png" alt="Daisy"/>
+        </a>
+        <a href=".">
+            <img src="images/Dense peonies.png" alt="Dense peonies"/>
+        </a>
+        <a href=".">
+            <img src="images/Egyptian lotus.png" alt="Egyptian lotus"/>
+        </a>
+        <a href=".">
             <img src="images/French hydrangea.png" alt="French hydrangea"/>
+        </a>
+        <a href=".">
+            <img src="images/Geranium purple.png" alt="Geranium purple"/>
         </a>
         <a href=".">
             <img src="images/Gladiolas.png" alt="Gladiolas"/>
@@ -30,31 +45,16 @@
             <img src="images/Himalayan blue poppy.png" alt="Himalayan blue poppy"/>
         </a>
         <a href=".">
+            <img src="images/Hydrangea.png" alt="Hydrangea"/>
+        </a>
+        <a href=".">
+            <img src="images/Impatiens bequaertii.png" alt="Impatiens bequaertii"/>
+        </a>
+        <a href=".">
             <img src="images/Iris.png" alt="Iris"/>
         </a>
         <a href=".">
             <img src="images/Japanese camellia.png" alt="Japanese camellia"/>
-        </a>
-        <a href=".">
-            <img src="images/Azalea.png" alt="Azalea"/>
-        </a>
-        <a href=".">
-            <img src="images/Bachelors button.png" alt="Bachelors button"/>
-        </a>
-        <a href=".">
-            <img src="images/Balloon.png" alt="Balloon"/>
-        </a>
-        <a href=".">
-            <img src="images/Bee balm.png" alt="Bee balm"/>
-        </a>
-        <a href=".">
-            <img src="images/Begonia.png" alt="Begonia"/>
-        </a>
-        <a href=".">
-            <img src="images/Bellflower.png" alt="Bellflower"/>
-        </a>
-        <a href=".">
-            <img src="images/Bergenia.png" alt="Bergenia"/>
         </a>
         <a href=".">
             <img src="images/Birds of paradise.png" alt="Birds of paradise"/>

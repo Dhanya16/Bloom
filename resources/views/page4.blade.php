@@ -6,6 +6,12 @@
     <x-header/>
     <div class="grid-container">
         <a href=".">
+            <img src="images/Pansy.png" alt="Pansy"/>
+        </a>
+        <a href=".">
+            <img src="images/Parrot tulips.png" alt="Parrot tulips"/>
+        </a>
+        <a href=".">
             <img src="images/Peony.png" alt="Peony"/>
         </a>
         <a href=".">
@@ -18,6 +24,12 @@
             <img src="images/Purple lilac.png" alt="Purple lilac"/>
         </a>
         <a href=".">
+            <img src="images/Rose.png" alt="Rose"/>
+        </a>
+        <a href=".">
+            <img src="images/Scadoxus multiflorus.png" alt="Scadoxus multiflorus"/>
+        </a>
+        <a href=".">
             <img src="images/Skeleton flower.png" alt="Skeleton flower"/>
         </a>
         <a href=".">
@@ -27,19 +39,7 @@
             <img src="images/Tulip.png" alt="Tulip"/>
         </a>
         <a href=".">
-            <img src="images/Alyssum.png" alt="Alyssum"/>
-        </a>
-        <a href=".">
-            <img src="images/Amaranthus.png" alt="Amaranthus"/>
-        </a>
-        <a href=".">
-            <img src="images/Anemone.png" alt="Anemone"/>
-        </a>
-        <a href=".">
-            <img src="images/Azalea.png" alt="Azalea"/>
-        </a>
-        <a href=".">
-            <img src="images/Bachelors button.png" alt="Bachelors button"/>
+            <img src="images/White plumeria.png" alt="White plumeria"/>
         </a>
         <a href=".">
             <img src="images/Balloon.png" alt="Balloon"/>

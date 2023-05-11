@@ -6,10 +6,16 @@
     <x-header/>
     <div class="grid-container">
         <a href=".">
+            <img src="images/Lark ascending.png" alt="Lark ascending"/>
+        </a>
+        <a href=".">
             <img src="images/Lily.png" alt="Lily"/>
         </a>
         <a href=".">
             <img src="images/Lotus.png" alt="Lotus"/>
+        </a>
+        <a href=".">
+            <img src="images/Magenta orchid medley.png" alt="Magenta orchid medley"/>
         </a>
         <a href=".">
             <img src="images/Magnolia.png" alt="Magnolia"/>
@@ -18,25 +24,19 @@
             <img src="images/Marigold.png" alt="Agapanthus"/>
         </a>
         <a href=".">
+            <img src="images/Marvel of peru.png" alt="Marvel of peru"/>
+        </a>
+        <a href=".">
             <img src="images/Morflora Tulips.png" alt="Morflora Tulips"/>
         </a>
         <a href=".">
+            <img src="images/Morning glory.png" alt="Morning glory"/>
+        </a>
+        <a href=".">
+            <img src="images/Nelumbo nucifera.png" alt="Nelumbo nucifera"/>
+        </a>
+        <a href=".">
             <img src="images/Orchid.png" alt="Orchid"/>
-        </a>
-        <a href=".">
-            <img src="images/Alstroemeria.png" alt="Alstroemeria"/>
-        </a>
-        <a href=".">
-            <img src="images/Alyssum.png" alt="Alyssum"/>
-        </a>
-        <a href=".">
-            <img src="images/Amaranthus.png" alt="Amaranthus"/>
-        </a>
-        <a href=".">
-            <img src="images/Anemone.png" alt="Anemone"/>
-        </a>
-        <a href=".">
-            <img src="images/Azalea.png" alt="Azalea"/>
         </a>
         <a href=".">
             <img src="images/Bachelors button.png" alt="Bachelors button"/>
