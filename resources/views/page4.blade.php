@@ -21,7 +21,16 @@
             <img src="images/Plumbago.png" alt="Plumbago"/>
         </a>
         <a href=".">
+            <img src="images/Poets narcissus.png" alt="Poets narcissus"/>
+        </a>
+        <a href=".">
+            <img src="images/Psychotria Elata.png" alt="Psychotria Elata"/>
+        </a>
+        <a href=".">
             <img src="images/Purple lilac.png" alt="Purple lilac"/>
+        </a>
+        <a href=".">
+            <img src="images/Purple rain.png" alt="Purple rain"/>
         </a>
         <a href=".">
             <img src="images/Rose.png" alt="Rose"/>
@@ -33,6 +42,9 @@
             <img src="images/Skeleton flower.png" alt="Skeleton flower"/>
         </a>
         <a href=".">
+            <img src="images/Texas bluebell.png" alt="Texas bluebell"/>
+        </a>
+        <a href=".">
             <img src="images/Tiger lily.png" alt="Tiger lily"/>
         </a>
         <a href=".">
@@ -40,18 +52,6 @@
         </a>
         <a href=".">
             <img src="images/White plumeria.png" alt="White plumeria"/>
-        </a>
-        <a href=".">
-            <img src="images/Balloon.png" alt="Balloon"/>
-        </a>
-        <a href=".">
-            <img src="images/Bee balm.png" alt="Bee balm"/>
-        </a>
-        <a href=".">
-            <img src="images/Begonia.png" alt="Begonia"/>
-        </a>
-        <a href=".">
-            <img src="images/Bellflower.png" alt="Bellflower"/>
         </a>
         <a href=".">
             <img src="images/Bergenia.png" alt="Bergenia"/>

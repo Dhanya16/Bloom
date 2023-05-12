@@ -6,6 +6,9 @@
     <x-header/>
     <div class="grid-container">
         <a href=".">
+            <img src="images/Carnation.png" alt="Carnation"  onclick ="showInfo('info28',this.src)"/>
+        </a>
+        <a href=".">
             <img src="images/Celosia.png" alt="Celosia"/>
         </a>
         <a href=".">
@@ -30,10 +33,19 @@
             <img src="images/Dense peonies.png" alt="Dense peonies"/>
         </a>
         <a href=".">
+            <img src="images/Dracula gigas.png" alt="Dracula gigas"/>
+        </a>
+        <a href=".">
             <img src="images/Egyptian lotus.png" alt="Egyptian lotus"/>
         </a>
         <a href=".">
             <img src="images/French hydrangea.png" alt="French hydrangea"/>
+        </a>
+        <a href=".">
+            <img src="images/Fuchsia.png" alt="Fuchsia"/>
+        </a>
+        <a href=".">
+            <img src="images/Gazania tiger strips.png" alt="Gazania tiger strips"/>
         </a>
         <a href=".">
             <img src="images/Geranium purple.png" alt="Geranium purple"/>
@@ -42,7 +54,16 @@
             <img src="images/Gladiolas.png" alt="Gladiolas"/>
         </a>
         <a href=".">
+            <img src="images/Hibiscus.png" alt="Hibiscus"/>
+        </a>
+        <a href=".">
             <img src="images/Himalayan blue poppy.png" alt="Himalayan blue poppy"/>
+        </a>
+        <a href=".">
+            <img src="images/Hollyhock.png" alt="Hollyhock"/>
+        </a>
+        <a href=".">
+            <img src="images/Hyacinth.png" alt="Hyacinth"/>
         </a>
         <a href=".">
             <img src="images/Hydrangea.png" alt="Hydrangea"/>
@@ -57,24 +78,6 @@
             <img src="images/Japanese camellia.png" alt="Japanese camellia"/>
         </a>
         <a href=".">
-            <img src="images/Birds of paradise.png" alt="Birds of paradise"/>
-        </a>
-        <a href=".">
-            <img src="images/Black eyed susan.png" alt="Black eyed susan"/>
-        </a>
-        <a href=".">
-            <img src="images/Bleeding heart.png" alt="Bleeding heart"/>
-        </a>
-        <a href=".">
-            <img src="images/Blue hydrangea.png" alt="Blue hydrangea"/>
-        </a>
-        <a href=".">
-            <img src="images/Broom.png" alt="Broom"/>
-        </a>
-        <a href=".">
-            <img src="images/Buttercup.png" alt="Buttercup"/>
-        </a>
-        <a href=".">
             <img src="images/Calla lilies.png" alt="Calla lilies"/>
         </a>
          <a href=".">
@@ -85,9 +88,6 @@
         </a>
         <a href=".">
             <img src="images/Dahlia.png" alt="Dahlia"/>
-        </a>
-        <a href=".">
-            <img src="images/Dahlia pinnata.png" alt="Dahlia pinnata"/>
         </a>
     </div>
     <style>

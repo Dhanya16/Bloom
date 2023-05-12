@@ -151,25 +151,25 @@
         </div>
         <div id="info25">
             <div class="content">
-                <h1>Broom</h1>
+                <h1>Bluecrown passionflower</h1>
                 <a href="page1"><button class="button" id="goback">Go back</button></a>
             </div>
         </div>
         <div id="info26">
             <div class="content">
-                <h1>Buttercup</h1>
+                <h1>Broom</h1>
                 <a href="page1"><button class="button" id="goback">Go back</button></a>
             </div>
         </div>
         <div id="info27">
             <div class="content">
-                <h1>Calla Lillies</h1>
+                <h1>Buttercup</h1>
                 <a href="page1"><button class="button" id="goback">Go back</button></a>
             </div>
         </div>
         <div id="info28">
             <div class="content">
-                <h1>Carnation</h1>
+                <h1>Calla Lillies</h1>
                 <a href="page1"><button class="button" id="goback">Go back</button></a>
             </div>
         </div>
@@ -199,10 +199,10 @@
         <img src="images/Black eyed susan.png" alt="Black eyed susan"  onclick ="showInfo('info22',this.src)"/>
         <img src="images/Bleeding heart.png" alt="Bleeding heart"  onclick ="showInfo('info23',this.src)"/>
         <img src="images/Blue hydrangea.png" alt="Blue hydrangea"  onclick ="showInfo('info24',this.src)"/>
-        <img src="images/Broom.png" alt="Broom"  onclick ="showInfo('info25',this.src)"/>
-        <img src="images/Buttercup.png" alt="Buttercup"  onclick ="showInfo('info26',this.src)"/>
-        <img src="images/Calla lilies.png" alt="Calla lilies"  onclick ="showInfo('info27',this.src)"/>
-        <img src="images/Carnation.png" alt="Carnation"  onclick ="showInfo('info28',this.src)"/>
+        <img src="images/Bluecrown passionflower.png" alt="Bluecrown passionflower"  onclick ="showInfo('info25',this.src)"/>
+        <img src="images/Broom.png" alt="Broom"  onclick ="showInfo('info26',this.src)"/>
+        <img src="images/Buttercup.png" alt="Buttercup"  onclick ="showInfo('info27',this.src)"/>
+        <img src="images/Calla lilies.png" alt="Calla lilies"  onclick ="showInfo('info28',this.src)"/>
     </div>
     <style>
         .grid-container{

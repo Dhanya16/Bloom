@@ -9,6 +9,15 @@
             <img src="images/Lark ascending.png" alt="Lark ascending"/>
         </a>
         <a href=".">
+            <img src="images/Lilium brownii.png" alt="Lilium brownii"/>
+        </a>
+        <a href=".">
+            <img src="images/Lilium casa blanca.png" alt="Lilium casa blanca"/>
+        </a>
+        <a href=".">
+            <img src="images/Lily of the valley hoa.png" alt="Lily of the valley hoa"/>
+        </a>
+        <a href=".">
             <img src="images/Lily.png" alt="Lily"/>
         </a>
         <a href=".">
@@ -16,6 +25,9 @@
         </a>
         <a href=".">
             <img src="images/Magenta orchid medley.png" alt="Magenta orchid medley"/>
+        </a>
+        <a href=".">
+            <img src="images/Magnolia sieboldii large.png" alt="Magnolia sieboldii large"/>
         </a>
         <a href=".">
             <img src="images/Magnolia.png" alt="Magnolia"/>
@@ -39,19 +51,7 @@
             <img src="images/Orchid.png" alt="Orchid"/>
         </a>
         <a href=".">
-            <img src="images/Bachelors button.png" alt="Bachelors button"/>
-        </a>
-        <a href=".">
-            <img src="images/Balloon.png" alt="Balloon"/>
-        </a>
-        <a href=".">
-            <img src="images/Bee balm.png" alt="Bee balm"/>
-        </a>
-        <a href=".">
-            <img src="images/Begonia.png" alt="Begonia"/>
-        </a>
-        <a href=".">
-            <img src="images/Bellflower.png" alt="Bellflower"/>
+            <img src="images/Oriental lillies.png" alt="Oriental lillies"/>
         </a>
         <a href=".">
             <img src="images/Bergenia.png" alt="Bergenia"/>
