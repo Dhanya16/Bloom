@@ -3,7 +3,7 @@
     <link rel="icon" type="image/x-icon" href="favicon1.ico">
     <style>
         body{
-            background-image:url({{url("images/background.png")}});
+            background-image: url('images/background.png');
             overflow:hidden;
         }
     </style>
